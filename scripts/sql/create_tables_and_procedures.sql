@@ -20,3 +20,4 @@ BEGIN
     FROM SourceTable;
 END;
 GO
+
